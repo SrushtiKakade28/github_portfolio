@@ -58,4 +58,4 @@ Blockchain
 
 
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Data Science Blog](http
