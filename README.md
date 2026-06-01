@@ -45,7 +45,7 @@ United Nations Women in MYIMUN held on 19th-20th June 2021.
 - Developed using Next.js, Freighter Wallet, Soroban, and the Stellar
 Blockchain
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
 
 ## Education
 - Bachelor Of Engineering ,Computer Science | Savitribai Phule University (_Jan 2021 – June 2024_)
