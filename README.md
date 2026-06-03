@@ -47,7 +47,7 @@ Blockchain
 
 
 ## Education
-- Bachelor Of Engineering ,Computer Science | Savitribai Phule University (_Jan 2021 – June 2024_)
+- Bachelor Of Engineering ,Computer Science |   Savitribai Phule University (_Jan 2021 – June 2024_)
 - CENTRAL BOARD OF SECONDARY EDUCATION (12th) | The Vatsalya School (_Aug 2018 – May 2020_)
 - INDIAN CERTIFICATE OF SECONDARY EDUCATION (10th) | Kline Memorial School (_Aug 2008 – May 2018_)
 
