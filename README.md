@@ -15,8 +15,7 @@
 - Responsible for content work and management work related to the Web3 event held in Banglore in 3rd April 2022.
 - Was able to host 100 students and multiple sponsers for our event.
 
-**The Phoenix Guild Fellow @ The Phoenix Guild Fellow (_May 2022 – June 2022
-_)**
+**The Phoenix Guild Fellow @ The Phoenix Guild Fellow (_May 2022 – June 2022_)**
 - selected as a Phoenix(fellow)in The Phoenix Guild in their genesis cohort.
 - Learnt Ethereum development and basics of blockchain. Learnt solidity and javascript
 programming language.
